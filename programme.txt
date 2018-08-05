@@ -1,0 +1,12 @@
+#Stock Price Prediction
+##NLP
+###Get Data:
+      => scrawler that gets K-10 on SEC => mongoDB done by 1 August
+      => API Twitter => mongoDB organized by dates done by 1 August
+      => FT ?
+      => Borkers
+
+###Binary Prediction using word counts:
+      => Positive / Negative
+      => 8 Sentiment using Ahmed paper
+      => Ponderation Title / SubTitle
