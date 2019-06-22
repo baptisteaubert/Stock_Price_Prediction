@@ -1,0 +1,4 @@
+AAPL 320193
+Alphabet 1652044
+Microsoft 789019
+Facebook 1326801
